@@ -40,7 +40,7 @@
 
  <br/><br/>
 
-<img src="https://YOUR-VERCEL-DOMAIN.vercel.app/graph?username=Khunanon-FT&theme=react-dark&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khunanon-FT&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
