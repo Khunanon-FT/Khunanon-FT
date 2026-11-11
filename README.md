@@ -4,7 +4,7 @@
 - 🎓 Computer Science Student at University of Phayao **<span type="placeholder" placeholder-type="place"></span>**
 - 💡 Interested in **Game Developmeant, Web Development, Fullstack Development , and Cloud Technologies**
 - 🎯 Current Goal: Learning Full-Stack Development and Cloud-Native Applications
-- 💬 Ask me about **JavaScript, Python, and Web Frameworks**
+- 💬 Ask me about **Python, and Web Frameworks**
 
 ---
 
