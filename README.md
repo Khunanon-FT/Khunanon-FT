@@ -2,8 +2,8 @@
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at University of Phayao **<span type="placeholder" placeholder-type="place"></span>**
-- 💡 Interested in **Game Developmeant, Web Development, Full-stack Development**
-- 🎯 Current Goal: Learning Full-Stack Development
+- 💡 Interested in **Game Developmeant, Web Development, Full-stack Developer**
+- 🎯 Current Goal: Learning Full-Stack Developer
 - 💬 Ask me about **Python , C , Java**
 
 ---
