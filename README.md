@@ -1,4 +1,4 @@
-# Hi there, I'm Khunanon FUeangnawakit<span type="placeholder" placeholder-type="person"></span> 👋
+# Hi there, I'm Khunanon Fueangnawakit<span type="placeholder" placeholder-type="person"></span> 👋
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at **<span type="placeholder" placeholder-type="place"></span>**
