@@ -26,13 +26,19 @@
 
 ---
 
-### 📊 GitHub Statistics
 
+## 📊 GitHub Analytics
+ 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khunanon-FT&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+ 
+<img src="https://github-readme-stats-fast.vercel.app/api?username=thammarat-ai&show_icons=true&theme=tokyonight&hide_border=true%22 height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thammarat-ai&layout=compact&theme=tokyonight&hide_border=true%22 height="165" />
+ 
+<br/><br/>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khunanon-FT&theme=react-dark&hide_border=true%22 width="100%" />
+ 
 </div>
-
 ---
 
 ### 📫 Connect with Me
