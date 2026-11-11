@@ -38,10 +38,9 @@
 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Khunanon-FT&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-  <br/><br/>
+ <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khunanon-FT&theme=react-dark&hide_border=true" width="100%" />
-
+<img src="https://YOUR-VERCEL-DOMAIN.vercel.app/graph?username=Khunanon-FT&theme=react-dark&hide_border=true" width="100%" />
 </div>
 
 ---
